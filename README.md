@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Some Thing Good!**
 
-- 🌱 I’m currently learning **Flutter,Unity Dev**
+- 🌱 I’m currently learning **Python,Net+**
 
 - 📫 How to reach me **Mohammadrezagol84@gmail.com**
 
-- ⚡ Fun fact **I think I am Batman 🦇**
+- ⚡ Fun fact **Did you know i am batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
